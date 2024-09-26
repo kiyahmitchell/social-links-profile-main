@@ -13,7 +13,6 @@ body {
   background-color: hsl(0, 0%, 8%);
 }
 
-
 /* CONTAINER STYLE */
 .container {
   height: 650px;
@@ -59,7 +58,6 @@ body {
   font-weight: 400;
 }
 
-
 /* LINK STYLES */
 .links {
   border-radius: 25px;
@@ -70,7 +68,6 @@ body {
   flex-direction: column;
   margin-top: 20px;
 }
-
 
 .links a {
   margin: 10px;
@@ -83,5 +80,5 @@ body {
   color: white;
   font-weight: 700;
   font-size: 15px;
-  box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, .08);
+  box-shadow: 1px 1px 1px 1px rgba(255, 255, 255, 0.08);
 }
